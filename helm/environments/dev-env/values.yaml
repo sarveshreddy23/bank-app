@@ -4,3 +4,4 @@ global:
   activeProfile: default
   configServerURL: configserver:http://configserver:8071/
   eurekaServerURL: http://eurekaserver:8070/eureka/
+  oauthTokenURL: http://keycloak:8080/realms/master/protocol/openid-connect/certs
